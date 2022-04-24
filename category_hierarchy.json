@@ -1,0 +1,841 @@
+{
+    "hierarchy": [
+        {
+            "id": "Q2574811",
+            "name": "/",
+            "children": [
+                {
+                    "id": "Q7184903",
+                    "name": "abstract",
+                    "children": [
+                        {
+                            "id": "Q328099",
+                            "name": "bokeh"
+                        },
+                        {
+                            "id": "Q12725",
+                            "name": "electricity"
+                        },
+                        {
+                            "id": "Q627994",
+                            "name": "grain"
+                        },
+                        {
+                            "id": "Q1818237",
+                            "name": "lensflare"
+                        },
+                        {
+                            "id": "Q1751583",
+                            "name": "light streak painting"
+                        },
+                        {
+                            "id": "Q81741",
+                            "name": "magic"
+                        },
+                        {
+                            "id": "Q1039318",
+                            "name": "mograph"
+                        },
+                        {
+                            "id": "Q897229",
+                            "name": "portal"
+                        },
+                        {
+                            "id": "Q732722",
+                            "name": "vortex"
+                        }
+                    ]
+                },
+                {
+                    "id": "Q16686448",
+                    "name": "artificial",
+                    "children": [
+                        {
+                            "id": "Q41176",
+                            "name": "building",
+                            "children": [
+                                {
+                                    "id": "Q23413",
+                                    "name": "castle"
+                                },
+                                {
+                                    "id": "Q16970",
+                                    "name": "church"
+                                },
+                                {
+                                    "id": "Q83405",
+                                    "name": "factory"
+                                },
+                                {
+                                    "id": "Q3947",
+                                    "name": "house"
+                                },
+                                {
+                                    "id": "Q40357",
+                                    "name": "prison"
+                                },
+                                {
+                                    "id": "Q1244442",
+                                    "name": "school"
+                                },
+                                {
+                                    "id": "Q11303",
+                                    "name": "skyscraper"
+                                },
+                                {
+                                    "id": "Q483110",
+                                    "name": "stadium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q42889",
+                            "name": "vehicle",
+                            "children": [
+                                {
+                                    "id": "Q765633",
+                                    "name": "aviation",
+                                    "children": [
+                                        {
+                                            "id": "Q197",
+                                            "name": "airplane"
+                                        },
+                                        {
+                                            "id": "Q34486",
+                                            "name": "helicopter"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q3565868",
+                                    "name": "rail transport",
+                                    "children": [
+                                        {
+                                            "id": "Q870",
+                                            "name": "train"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q516739",
+                                    "name": "road transport",
+                                    "children": [
+                                        {
+                                            "id": "Q5638",
+                                            "name": "bus"
+                                        },
+                                        {
+                                            "id": "Q1420",
+                                            "name": "car",
+                                            "children": [
+                                                {
+                                                    "id": "Q868601",
+                                                    "name": "police car"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q155930",
+                                    "name": "ship transport",
+                                    "children": [
+                                        {
+                                            "id": "Q35872",
+                                            "name": "boat"
+                                        },
+                                        {
+                                            "id": "Q11446",
+                                            "name": "ship"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q728",
+                            "name": "weapon",
+                            "children": [
+                                {
+                                    "id": "Q174583",
+                                    "name": "bullet",
+                                    "children": [
+                                        {
+                                            "id": "Q105061632",
+                                            "name": "bullet hole"
+                                        },
+                                        {
+                                            "id": "Q37144",
+                                            "name": "bullet shell"
+                                        },
+                                        {
+                                            "id": "bullet_trail",
+                                            "name": "bullet trail"
+                                        },
+                                        {
+                                            "id": "bullet_underwater",
+                                            "name": "bullet underwater"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q974850",
+                                    "name": "missile",
+                                    "children": [
+                                        {
+                                            "id": "missile_trail",
+                                            "name": "missile trail"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q81103",
+                                    "name": "cannon"
+                                },
+                                {
+                                    "id": "Q1574963",
+                                    "name": "handgun"
+                                },
+                                {
+                                    "id": "Q1425142",
+                                    "name": "muzzle flash",
+                                    "children": [
+                                        {
+                                            "id": "muzzle_flash_handgun",
+                                            "name": "muzzle flash handgun"
+                                        },
+                                        {
+                                            "id": "muzzle_flash_rifle",
+                                            "name": "muzzle flash rifle"
+                                        },
+                                        {
+                                            "id": "muzzle_flash_scifi",
+                                            "name": "muzzle flash scifi"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q124072",
+                                    "name": "rifle"
+                                },
+                                {
+                                    "id": "Q4129041",
+                                    "name": "sci-fi weapon"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Q757514",
+                    "name": "atmospheric",
+                    "children": [
+                        {
+                            "id": "Q37477",
+                            "name": "fog"
+                        },
+                        {
+                            "id": "Q875322",
+                            "name": "godray"
+                        },
+                        {
+                            "id": "Q192196",
+                            "name": "mist"
+                        },
+                        {
+                            "id": "Q82916",
+                            "name": "spotlight"
+                        }
+                    ]
+                },
+                {
+                    "id": "Q17781833",
+                    "name": "destruction",
+                    "children": [
+                        {
+                            "id": "Q106538872",
+                            "name": "broken glass"
+                        },
+                        {
+                            "id": "Q65862755",
+                            "name": "crack"
+                        },
+                        {
+                            "id": "Q637703",
+                            "name": "debris"
+                        },
+                        {
+                            "id": "Q21152267",
+                            "name": "dirt",
+                            "children": [
+                                {
+                                    "id": "Q33374019",
+                                    "name": "scorch mark"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q165632",
+                            "name": "dust"
+                        }
+                    ]
+                },
+                {
+                    "id": "Q179057",
+                    "name": "explosion",
+                    "children": [
+                        {
+                            "id": "Q4698303",
+                            "name": "aerial explosion"
+                        },
+                        {
+                            "id": "Q2296331",
+                            "name": "dust explosion"
+                        },
+                        {
+                            "id": "Q127933",
+                            "name": "firework"
+                        },
+                        {
+                            "id": "Q1362483",
+                            "name": "gas explosion"
+                        },
+                        {
+                            "id": "Q2656967",
+                            "name": "nuclear explosion"
+                        },
+                        {
+                            "id": "Q101568988",
+                            "name": "powder explosion"
+                        },
+                        {
+                            "id": "Q504481",
+                            "name": "smoke explosion"
+                        }
+                    ]
+                },
+                {
+                    "id": "Q3196",
+                    "name": "fire",
+                    "children": [
+                        {
+                            "id": "Q329981",
+                            "name": "campfire"
+                        },
+                        {
+                            "id": "Q177463",
+                            "name": "coal"
+                        },
+                        {
+                            "id": "Q20820051",
+                            "name": "fireball"
+                        },
+                        {
+                            "id": "Q188669",
+                            "name": "fireplace"
+                        },
+                        {
+                            "id": "Q235544",
+                            "name": "flame",
+                            "children": [
+                                {
+                                    "id": "Q327954",
+                                    "name": "torch"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q45183",
+                            "name": "flamethrower"
+                        },
+                        {
+                            "id": "Q301594",
+                            "name": "rollover"
+                        },
+                        {
+                            "id": "Q925477",
+                            "name": "steel wool"
+                        }
+                    ]
+                },
+                {
+                    "id": "Q4115667",
+                    "name": "impact",
+                    "children": [
+                        {
+                            "id": "Q105850468",
+                            "name": "hit",
+                            "children": [
+                                {
+                                    "id": "hit_ground",
+                                    "name": "ground hit"
+                                },
+                                {
+                                    "id": "Q656906",
+                                    "name": "splash"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q190688",
+                            "name": "shock wave"
+                        }
+                    ]
+                },
+                {
+                    "id": "Q11435",
+                    "name": "liquid",
+                    "children": [
+                        {
+                            "id": "Q11158",
+                            "name": "acid"
+                        },
+                        {
+                            "id": "Q7873",
+                            "name": "blood"
+                        },
+                        {
+                            "id": "Q127418",
+                            "name": "ink"
+                        },
+                        {
+                            "id": "Q3649349",
+                            "name": "slime"
+                        },
+                        {
+                            "id": "Q283",
+                            "name": "water",
+                            "children": [
+                                {
+                                    "id": "Q483453",
+                                    "name": "fountain"
+                                },
+                                {
+                                    "id": "Q23397",
+                                    "name": "lake"
+                                },
+                                {
+                                    "id": "Q9430",
+                                    "name": "ocean",
+                                    "children": [
+                                        {
+                                            "id": "Q249020",
+                                            "name": "ocean foam"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q4022",
+                                    "name": "river"
+                                },
+                                {
+                                    "id": "Q75794",
+                                    "name": "water bubble"
+                                },
+                                {
+                                    "id": "Q15143885",
+                                    "name": "water ripple"
+                                },
+                                {
+                                    "id": "Q34038",
+                                    "name": "waterfall"
+                                },
+                                {
+                                    "id": "Q165848",
+                                    "name": "wave"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Q214609",
+                    "name": "material",
+                    "children": [
+                        {
+                            "id": "Q22657",
+                            "name": "concrete"
+                        },
+                        {
+                            "id": "Q11469",
+                            "name": "glass"
+                        },
+                        {
+                            "id": "Q11426",
+                            "name": "metal"
+                        },
+                        {
+                            "id": "Q34679",
+                            "name": "sand"
+                        },
+                        {
+                            "id": "Q287",
+                            "name": "wood"
+                        }
+                    ]
+                },
+                {
+                    "id": "Q2302426",
+                    "name": "misc"
+                },
+                {
+                    "id": "Q7860",
+                    "name": "nature",
+                    "children": [
+                        {
+                            "id": "Q1",
+                            "name": "cosmos",
+                            "children": [
+                                {
+                                    "id": "Q131136",
+                                    "name": "meteor"
+                                },
+                                {
+                                    "id": "Q405",
+                                    "name": "moon"
+                                },
+                                {
+                                    "id": "Q42372",
+                                    "name": "nebula"
+                                },
+                                {
+                                    "id": "Q634",
+                                    "name": "planet",
+                                    "children": [
+                                        {
+                                            "id": "Q2",
+                                            "name": "earth"
+                                        },
+                                        {
+                                            "id": "Q319",
+                                            "name": "jupiter"
+                                        },
+                                        {
+                                            "id": "Q111",
+                                            "name": "mars"
+                                        },
+                                        {
+                                            "id": "Q308",
+                                            "name": "mercury"
+                                        },
+                                        {
+                                            "id": "Q332",
+                                            "name": "neptune"
+                                        },
+                                        {
+                                            "id": "Q193",
+                                            "name": "saturn"
+                                        },
+                                        {
+                                            "id": "Q324",
+                                            "name": "uranus"
+                                        },
+                                        {
+                                            "id": "Q313",
+                                            "name": "venus"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q523",
+                                    "name": "stars"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q107425",
+                            "name": "landscape",
+                            "children": [
+                                {
+                                    "id": "Q175185",
+                                    "name": "countryside"
+                                },
+                                {
+                                    "id": "Q8514",
+                                    "name": "desert"
+                                },
+                                {
+                                    "id": "Q8502",
+                                    "name": "mountain"
+                                },
+                                {
+                                    "id": "Q702492",
+                                    "name": "urban"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q527",
+                            "name": "sky",
+                            "children": [
+                                {
+                                    "id": "Q8074",
+                                    "name": "cloud"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q11663",
+                            "name": "weather",
+                            "children": [
+                                {
+                                    "id": "Q33741",
+                                    "name": "lightning"
+                                },
+                                {
+                                    "id": "Q7925",
+                                    "name": "rain"
+                                },
+                                {
+                                    "id": "Q7561",
+                                    "name": "snow"
+                                },
+                                {
+                                    "id": "Q8081",
+                                    "name": "tornado"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Q7239",
+                    "name": "organism",
+                    "children": [
+                        {
+                            "id": "Q729",
+                            "name": "animal",
+                            "children": [
+                                {
+                                    "id": "Q10908",
+                                    "name": "amphibian"
+                                },
+                                {
+                                    "id": "Q5113",
+                                    "name": "bird",
+                                    "children": [
+                                        {
+                                            "id": "Q43365",
+                                            "name": "crow"
+                                        },
+                                        {
+                                            "id": "Q3736439",
+                                            "name": "duck"
+                                        },
+                                        {
+                                            "id": "Q81025",
+                                            "name": "feather"
+                                        },
+                                        {
+                                            "id": "Q25222",
+                                            "name": "owl"
+                                        },
+                                        {
+                                            "id": "Q3112866",
+                                            "name": "seagull"
+                                        },
+                                        {
+                                            "id": "Q123120",
+                                            "name": "vulture"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q217605",
+                                    "name": "claw"
+                                },
+                                {
+                                    "id": "Q152",
+                                    "name": "fish"
+                                },
+                                {
+                                    "id": "Q43806",
+                                    "name": "invertebrate"
+                                },
+                                {
+                                    "id": "Q7377",
+                                    "name": "mammal",
+                                    "children": [
+                                        {
+                                            "id": "Q146",
+                                            "name": "cat"
+                                        },
+                                        {
+                                            "id": "Q144",
+                                            "name": "dog"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q10811",
+                                    "name": "reptile"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q5",
+                            "name": "human",
+                            "children": [
+                                {
+                                    "id": "Q80994",
+                                    "name": "adult"
+                                },
+                                {
+                                    "id": "Q7569",
+                                    "name": "child"
+                                },
+                                {
+                                    "id": "Q102083",
+                                    "name": "knight"
+                                },
+                                {
+                                    "id": "Q221488",
+                                    "name": "pedestrian"
+                                },
+                                {
+                                    "id": "Q384593",
+                                    "name": "police officer"
+                                },
+                                {
+                                    "id": "Q4991371",
+                                    "name": "soldier"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Q756",
+                            "name": "plant",
+                            "children": [
+                                {
+                                    "id": "Q42295",
+                                    "name": "bush"
+                                },
+                                {
+                                    "id": "Q506",
+                                    "name": "flower"
+                                },
+                                {
+                                    "id": "Q4421",
+                                    "name": "forest",
+                                    "children": [
+                                        {
+                                            "id": "Q10884",
+                                            "name": "tree",
+                                            "children": [
+                                                {
+                                                    "id": "Q33971",
+                                                    "name": "leaf"
+                                                },
+                                                {
+                                                    "id": "Q14080",
+                                                    "name": "palm tree"
+                                                },
+                                                {
+                                                    "id": "Q193472",
+                                                    "name": "trunk"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q643352",
+                                    "name": "grass"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Q1621273",
+                    "name": "particle",
+                    "children": [
+                        {
+                            "id": "Q177257",
+                            "name": "embers"
+                        },
+                        {
+                            "id": "Q911679",
+                            "name": "spark",
+                            "children": [
+                                {
+                                    "id": "Q664571",
+                                    "name": "fuse"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Q130768",
+                    "name": "smoke",
+                    "children": [
+                        {
+                            "id": "Q2556360",
+                            "name": "chimney smoke"
+                        },
+                        {
+                            "id": "Q3817528",
+                            "name": "smoke plume"
+                        },
+                        {
+                            "id": "Q255722",
+                            "name": "vapor",
+                            "children": [
+                                {
+                                    "id": "Q13428325",
+                                    "name": "breath"
+                                },
+                                {
+                                    "id": "Q12348691",
+                                    "name": "fume",
+                                    "children": [
+                                        {
+                                            "id": "Q2386268",
+                                            "name": "wisp of smoke"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Q3251738",
+                                    "name": "steam"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Q8317",
+                    "name": "vfx",
+                    "children": [
+                        {
+                            "id": "Q5148536",
+                            "name": "colorchecker"
+                        },
+                        {
+                            "id": "Q309254",
+                            "name": "hdri"
+                        },
+                        {
+                            "id": "Q504027",
+                            "name": "lidar"
+                        },
+                        {
+                            "id": "Q42332",
+                            "name": "pdf"
+                        },
+                        {
+                            "id": "Q190149",
+                            "name": "photogrammetry"
+                        },
+                        {
+                            "id": "Q520096",
+                            "name": "slate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "version": "20220119"
+}
